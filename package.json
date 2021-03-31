@@ -1,0 +1,35 @@
+{
+	"name": "foamc-3",
+	"version": "1.0.0",
+	"description": "[FoamC-3](https://github.com/HenryC-3/FoamC-3) 基于 [foambubble/foam-template: Foam workpace template](https://github.com/foambubble/foam-template)",
+	"main": "index.js",
+	"directories": {
+		"example": "examples"
+	},
+	"scripts": {
+		"janitor": "yarn run note-link-janitor ./docs; yarn run foam janitor ./docs;",
+		"docs:dev": "vuepress dev .",
+		"docs:build": "vuepress build ."
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/HenryC-3/FoamC-3.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/HenryC-3/FoamC-3/issues"
+	},
+	"homepage": "https://github.com/HenryC-3/FoamC-3#readme",
+	"dependencies": {
+		"@vuepress/plugin-active-header-links": "^1.5.4",
+		"@vuepress/plugin-nprogress": "^1.5.4",
+		"foam-cli": "^0.3.0",
+		"markdown-it-imsize": "^2.0.1",
+		"vuepress": "^1.8.2",
+		"vuepress-markdown-it-wikilink": "^1.0.1",
+		"vuepress-plugin-container": "^2.1.5",
+		"vuepress-plugin-mathjax": "^1.2.8",
+		"vuepress-plugin-smooth-scroll": "^0.0.10"
+	}
+}
