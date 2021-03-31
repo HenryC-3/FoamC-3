@@ -7,6 +7,7 @@ const wikilinks = require("vuepress-markdown-it-wikilink")({
 });
 
 module.exports = {
+	base: "/FoamC-3/",
 	title: "Henry's Wiki",
 	description:
 		"Foam as second brain, for adversarial attacks and AI security. Powered by VuePress.",
