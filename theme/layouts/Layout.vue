@@ -1,7 +1,7 @@
 <template>
   <div class="theme-container">
     <div class="navigation">
-      <RouterLink to="/">🍌 Spencer's Wiki</RouterLink>
+      <RouterLink to="/">🍌 Henry's Wiki</RouterLink>
     </div>
 
     <Content />
@@ -9,10 +9,10 @@
 </template>
 
 <script>
-import Page from '@theme/components/Page.vue'
+import Page from "@theme/components/Page.vue"
 
 export default {
-  name: 'Layout',
+  name: "Layout",
 
   components: {
     Page,

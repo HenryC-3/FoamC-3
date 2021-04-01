@@ -5,6 +5,8 @@
 - [foambubble/foam-template: Foam workpace template](https://github.com/foambubble/foam-template)
 - [spencerwooo/foam-wiki: Foam as second brain. Powered by VuePress.](https://github.com/spencerwooo/foam-wiki)
 
+在线地址: [Henry's Wiki](https://henryc-3.github.io/FoamC-3/)
+
 ### 项目目录
 
 ```text
