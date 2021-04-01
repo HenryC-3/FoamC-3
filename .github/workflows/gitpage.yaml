@@ -1,2 +1,0 @@
-- name: Release Vuepress docs
-  uses: veaba/vuepress-actions@v0.83

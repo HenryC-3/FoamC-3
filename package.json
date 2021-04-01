@@ -20,7 +20,7 @@
 	"bugs": {
 		"url": "https://github.com/HenryC-3/FoamC-3/issues"
 	},
-	"homepage": "https://github.com/HenryC-3/FoamC-3#readme",
+	"homepage": "https://github.io/HenryC-3/FoamC-3",
 	"dependencies": {
 		"@vuepress/plugin-active-header-links": "^1.5.4",
 		"@vuepress/plugin-nprogress": "^1.5.4",

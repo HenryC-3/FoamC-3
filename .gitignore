@@ -1,6 +1,7 @@
 node_modules
 .obsidian/
-
+gh-pages
+gh-pages.pub
 # Logs
 logs
 *.log
